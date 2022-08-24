@@ -1,10 +1,10 @@
-# <img src="https://imgur.com/X4HdxWx.png"  width="50px" align="center" alt="Logo Explorer em formato de Hexagono Azul com detalhes azul claro"> Explorer - Projeto 3
+# **Recent Works Website**
 
 ### 📌 Trabalhando com a ferramenta Figma desenvolvemos o projeto para transformar um layout em html e css.
 
-# <br>:book: Aprendizados
+Link -> <a href="https://rodrigoluigi.github.io/LP-Recent-Works/" target="_blank">Recent Works</a>
 
-### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
+# <br><img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
 Projeto de uma página estática, na qual trabalhamos com desenvolvimento mobile-first, design responsivo, unidades de medidas flexiveis, display grid, animações e transitions . Desenvolvimento utilizando clean code e tags semânticas com HTML e CSS.
 
@@ -33,10 +33,12 @@ Projeto de uma página estática, na qual trabalhamos com desenvolvimento mobile
 
 ## 📚 Stack utilizada
 
-## <img src="https://imgur.com/JvOmHZg.png" width="42px" align="center">  **HTML**
-## <img src="https://imgur.com/dsdsHjr.png" width="42px" align="center">  **CSS**
+<div style="display: inline-block">
+  <img align="center" alt="Logo HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>  
 
 
 ## Screenshots
 
-<img src="">
+<img src="./assets/recent-works.png">
